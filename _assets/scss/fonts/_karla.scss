@@ -1,0 +1,23 @@
+//----------------------------------------------
+// Family: Karla
+//
+// Regular: 400
+// Bold: 700
+//----------------------------------------------
+
+// Regular
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Karla'), local('Karla-Regular'), url(hhttps://fonts.googleapis.com/css?family=Karla&display=swap);
+}
+
+// Bold
+@font-face {
+  font-family: Karla';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Karla Bold'), local('Karla-Bold'), url(https://fonts.googleapis.com/css?family=Karla:700&display=swap);
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
